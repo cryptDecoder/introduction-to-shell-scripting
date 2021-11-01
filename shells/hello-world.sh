@@ -1,4 +1,4 @@
 #!/bin/bash
 # Printing the message
 
-echo "Welcome to Shell scripting . . ."
+echo "Welcome to Shell scripting . . .\e[0m"
